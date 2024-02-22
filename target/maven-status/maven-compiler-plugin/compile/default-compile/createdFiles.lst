@@ -1,0 +1,9 @@
+com/c3paris/web/infoServlet.class
+com/c3paris/entity/InfoContact.class
+com/c3paris/test/UserDaoTest.class
+com/c3paris/dao/Impl/BaseDao.class
+com/c3paris/service/InfoService.class
+com/c3paris/web/BaseServlet.class
+com/c3paris/dao/UserDao.class
+com/c3paris/utils/WebUtils.class
+com/c3paris/dao/Impl/UserDaoImpl.class
